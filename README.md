@@ -7,7 +7,7 @@ I'm about to start an OU degree in computing and IT and hoping for a career in I
 
 **How to run the code?**
 
-I'm trying to use 'test first development' where I write the tests before I write the actual code. To run the tests the command
+I'm trying to use 'test first development' where I write the tests before I write the actual code. To run the tests use the command:
 
 python -m -unittest t_makeboard
 or 
