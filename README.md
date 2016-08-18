@@ -9,10 +9,9 @@ I'm about to start an OU degree in computing and IT and hoping for a career in I
 
 I'm trying to use 'test first development' where I write the tests before I write the actual code. To run the tests use the command:
 
-`python -m unittest t_makeboard`
-or 
+`python -m unittest t_makeboard`  
+or  
 `python -m unittest nameoftests`
-
 
 **What am I trying to learn?**
 
@@ -21,8 +20,3 @@ I'd like to get my head round Python, SQL, and anything else relevant to make th
 At least one kind of web server language, probably two (Apache, PHP I think)
 At least one version of SQL
 Some basic front end website languages (HTML, JavaScript and the like)
-
-
-
-
-
