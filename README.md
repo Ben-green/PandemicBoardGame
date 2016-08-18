@@ -24,7 +24,7 @@ So I'm going to try to learn as much code as I can and focus on completing pract
 
 ## How to run the code
 
-I'm trying to use 'test first development' where I write the tests before I write the actual code. To run the tests use the command:
+I'm trying to use _test first development_ where I write the tests before I write the actual code. To run the tests use the command:
 
 `python -m unittest t_makeboard`  
 or  
