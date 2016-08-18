@@ -1,8 +1,11 @@
 ## What is this?
 
-This is a simple project I've started to help me learn how to use vim, python and Github. When it's finished it should let somebody play the Pandemic board game as one or more of the players.
+This is a simple project I've started to help me learn how to use vim, 
+python and Github. When it's finished it should let somebody play the 
+Pandemic board game as one or more of the players.
 
-I'm about to start an OU degree in computing and IT and hoping for a career in IT eventually. The role I've got my eye on is one of full stack developer:
+I'm about to start an OU degree in computing and IT and hoping for a career
+in IT eventually. The role I've got my eye on is one of full stack developer:
 
 >The term full-stack means developers who are comfortable working with
 both back-end and front-end technologies. To be more specific, it means
@@ -20,7 +23,8 @@ areas of software. --
 [The Rise And Fall Of The Full Stack Developer](https://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/),
 (Peter Yared, November 8, 2014)
 
-So I'm going to try to learn as much code as I can and focus on completing practical fun projects with other people alongside my course. 
+So I'm going to try to learn as much code as I can and focus on completing
+practical fun projects with other people alongside my course.
 
 
 ## What am I trying to learn?
