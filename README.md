@@ -25,7 +25,15 @@ So I'm going to try to learn as much code as I can and focus on completing pract
 
 ## What am I trying to learn?
 
-I'd like to get my head round Python, SQL, and anything else relevant to make this work. I think that probably includes git and how to use the command line in Linux (running Ubuntu at the moment). In the future I'd also like to learn
+I'd like to get my head round:
+
+* git,
+* Python,
+* SQL,
+* the unix shell in Ubuntu,
+* all else relevant to make this work.
+
+In the future I'd also like to learn
 
 At least one kind of web server language, probably two (Apache, PHP I think)
 At least one version of SQL
