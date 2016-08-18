@@ -70,5 +70,3 @@ Some basic front end website languages (HTML, JavaScript and the like)
 6 - cure - discard 5 given cards of the same colour to discover a cure for a disease.
 7 - sk - moves a given card from a given player to another given player when both are in the same city and the city named on the card.
 8 - br - a given player builds a research station in a given city discarding that city card if they are in the city on the card
-
-
