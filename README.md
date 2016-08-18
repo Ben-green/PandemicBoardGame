@@ -33,11 +33,11 @@ I'd like to get my head round:
 * the unix shell in Ubuntu,
 * all else relevant to make this work.
 
-In the future I'd also like to learn
+In the future I'd also like to learn:
 
-At least one kind of web server language, probably two (Apache, PHP I think)
-At least one version of SQL
-Some basic front end website languages (HTML, JavaScript and the like)
+* At least one kind of web server language, probably two (Apache, PHP I think),
+* At least one version of SQL,
+* Some basic front end website languages (HTML, JavaScript and the like).
 
 
 ## Classes and Defs in PandemicGame.py
