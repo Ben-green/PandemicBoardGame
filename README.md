@@ -1,12 +1,11 @@
-
-**What is this?**
+## What is this?
 
 This is a simple project I've started to help me learn how to use vim, python and Github. When it's finished it should let somebody play the Pandemic board game as one or more of the players.
 
 I'm about to start an OU degree in computing and IT and hoping for a career in IT eventually. The role I've got my eye on is one of full stack developer https://www.sitepoint.com/full-stack-developer/, although I understand this might already be old hat https://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/. So I'm going to try to learn as much code as I can and focus on completing practical fun projects with other people alongside my course. 
 
 
-**What am I trying to learn?**
+## What am I trying to learn?
 
 I'd like to get my head round Python, SQL, and anything else relevant to make this work. I think that probably includes git and how to use the command line in Linux (running Ubuntu at the moment). In the future I'd also like to learn
 
@@ -15,8 +14,8 @@ At least one version of SQL
 Some basic front end website languages (HTML, JavaScript and the like)
 
 
-**Classes and Defs in PandemicGame.py**
-***A- Class - startinggame***
+## Classes and Defs in PandemicGame.py
+### A - Class - startinggame
 1- startinglocals - Updates the BoardTBL table with basic game info. A research station is set in Atlanta, and a given number of players are also set there.
 2- BoardTBL - Sets up the gameboard from a given .txt file. This has columns which give the name, colour, connections and cubes in a city. It also has columns which are set to 1 from 0 when a player or research station is present.
 3- pdTBL - creates and populates the player deck table pdTBL. This has 3 columns for the name, colour and position of the card in the deck.
@@ -38,7 +37,7 @@ Some basic front end website languages (HTML, JavaScript and the like)
 19- sginfect - infects 3 cities with 3 cubes, 3 with 2 and 3 with 1.
 20- startnewgame - starts a new game for a given number of players, on a specific board, with a given number of epidemics using given event and character files.
 
-***B - Class - inaturn***
+### B - Class - inaturn
 1 - getplayer - returns the location of a given player. 
 2 - getcityallcubes - returns all the cubes of any colour found in a given city.
 3 - infectcities - infects cities at a given rate
@@ -61,7 +60,7 @@ Some basic front end website languages (HTML, JavaScript and the like)
 20 - rc - removes a cube of a given colour from a given location
 21 - getap - returns the current active player
 
-***C - Class - playeraction***
+### C - Class - playeraction
 1 - trainboat - move a given player from a given location to another adjacent location, for an action.
 2 - direct - move a given player to given location dicarding the card of the destination city from their hand.
 3 - charter - move a given player to a given location discarding the card of their current location from their hand.
