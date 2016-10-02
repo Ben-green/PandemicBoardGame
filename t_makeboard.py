@@ -226,7 +226,7 @@ class T( unittest.TestCase ):
 		self.assertNotEqual(answer0,answer1,"""Player 1's hand has cards still in the player deck.""")
 
 
-	
+
 # This checks the player deck has been shuffled, without epidemic cards included.
 	def test_setup_shufpd (self):
 		sg = startinggame ()
@@ -355,7 +355,7 @@ class T( unittest.TestCase ):
 	def test_startnewgame (self):
 		sg = startinggame ()
 		it = inaturn ()
-		print "Testing 4 player game set-up" 
+		print "Testing 4 player game set-up"
 		sg.startnewgameq (4,'testboard.txt',4,'testevent.txt','testcharacter.txt')
 		with sqlite3.connect('pandemic.db') as conn:
 			cursor = conn.cursor()
